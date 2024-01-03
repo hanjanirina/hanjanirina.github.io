@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I joined the Economics Ph.D. program at the University of Michigan in August 2023. My research interests range from Development, International Economics to Economic Hisotry. In the past, I have worked at the Empirical Studies of Conflict Group at Princeton University. You can find my latest CV/ Resume [here](/files/HNR_RES_1223.pdf). You can reach me at [nirina@umich.edu](mailto:nirina@umich.edu).
+I started the Economics Ph.D. program at the University of Michigan in August 2023. My research interests range from Development, International Economics to Economic History. In the past, I have worked at the Empirical Studies of Conflict Group at Princeton University. You can find my latest CV/ Resume [here](/files/HNR_RES_1223.pdf). You can reach me at [nirina@umich.edu](mailto:nirina@umich.edu).
 
 <!-- A data-driven personal website
 ======
